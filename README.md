@@ -1,8 +1,8 @@
 # 🚀 Summer Full-Stack Bootcamp '26
 
-<!-- HERO BANNER (Ensure your image is uploaded to assets/profile-banner.png) -->
+<!-- TECHIE LOW-PROFILE ANIMATED BANNER -->
 <p align="center">
-  <img src="https://i.postimg.cc/your-direct-link-here/banner.png" alt="Bootcamp Banner" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0NXY2MG81YjVwZWU1NnI5d2xxbTF4OHFmcnFpYndwNmswaDZ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw1/939l7clwO96wE/giphy.gif" alt="Sleek Tech Code Loop" width="100%" height="180px">
 </p>
 
 <!-- UPGRADED MODERN FLAT BADGES -->
