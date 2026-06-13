@@ -2,7 +2,7 @@
 
 <!-- TECHIE ANIMATED GIF BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Terminal Loop" width="100%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Terminal Loop" width="40%">
 </p>
 
 <!-- STOIC MOTIVATIONAL BADGES (MARCUS AURELIUS INSPIRED) -->
