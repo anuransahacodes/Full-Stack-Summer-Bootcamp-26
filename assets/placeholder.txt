@@ -1,3 +1,0 @@
-<p align="center">
-  <img src="https://i.postimg.cc/your-direct-link-here/banner.png" alt="Bootcamp Banner" width="100%">
-</p>
