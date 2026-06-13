@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Calculator</title>
   <style>
     body {
@@ -75,7 +76,7 @@
 <body>
 
   <div class="calculator">
-    <input type="text" id="display" readonly value="">
+    <input type="text" id="display" aria-label="Calculator display" placeholder="0" readonly value="">
 
     <div class="buttons">
       <button onclick="press('1')">1</button>
